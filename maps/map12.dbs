@@ -1,0 +1,30 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Skulltag_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP12
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 8;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+		}
+		
+	}
+	
+}
+

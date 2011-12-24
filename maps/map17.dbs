@@ -1,0 +1,40 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Skulltag_DoomUDMF.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP17
+	{
+		
+		grid
+		{
+			backoffsety = 0;
+			backoffsetx = 0;
+			backscalex = 100;
+			gridsize = 32;
+			background = "";
+			backsource = 0;
+			backscaley = 100;
+		}
+		
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 2;
+				location = "C:\\Projects\\legendary\\legendary\\legendary.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
+		}
+		
+	}
+	
+}
+

@@ -1,0 +1,308 @@
+splash water
+{
+	smallclass		WaterSplash
+	smallclip		12
+	smallsound		world/drip
+
+	baseclass		WaterSplashBase
+	chunkclass		WaterSplash
+	chunkxvelshift	8
+	chunkyvelshift	8
+	chunkzvelshift	8
+	chunkbasezvel	2
+	sound			world/watersplash
+}
+
+splash rock
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/rock
+	NoAlert
+}
+
+splash hard
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/hard
+	NoAlert
+}
+
+splash metal
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/metal
+	NoAlert
+}
+
+splash tile
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/tile
+	NoAlert
+}
+
+splash carpet
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/carpet
+	NoAlert
+}
+
+splash wood
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/wood
+	NoAlert
+}
+
+splash dirt
+{
+	smallclass		None
+	smallclip		0
+	baseclass		None
+	chunkclass		None
+	chunkxvelshift	0
+	chunkyvelshift	0
+	chunkzvelshift	0
+	chunkbasezvel	0
+	sound			floor/dirt
+	NoAlert
+}
+
+terrain water
+{
+    splash          water
+	footclip	    6
+}
+
+terrain rock
+{
+	splash			rock
+	footclip		0
+}
+
+terrain hard
+{
+	splash			hard
+	footclip		0
+}
+
+terrain metal
+{
+	splash			metal
+	footclip		0
+}
+
+terrain tile
+{
+	splash			tile
+	footclip		0
+}
+
+terrain carpet
+{
+	splash			carpet
+	footclip		0
+}
+
+terrain wood
+{
+	splash			wood
+	footclip		0	
+}
+
+terrain dirt
+{
+  splash      dirt
+  footclip    0
+}
+
+ifdoom
+floor FWATER1  water
+floor FWATER2  water
+floor FWATER3  water
+floor FWATER4  water
+floor QWATER   water
+
+floor FLAT10   rock
+floor FLAT5_4  rock
+floor MFLR8_1  rock
+floor MFLR8_4  rock
+floor MOONROCK rock
+floor RROCK09  rock
+floor SOIL     rock
+floor TANROCK5 rock
+floor FLAT1    rock
+floor GRYMS    rock
+
+floor CEIL5_1  hard
+floor CEIL5_2  hard
+floor FLAT18   hard
+floor FLAT19   hard
+floor FLOOR0_3 hard
+floor FLOOR0_1 hard
+floor NFBRWN02 hard
+floor COMP01   hard
+floor NFBRGN01 hard
+floor FLAT3    hard
+floor FLOOR0_5 hard
+floor FLOOR7_1 hard
+floor FLOOR8_7 hard
+floor STRIP    hard
+floor NFMTSQ01 hard
+floor NFMTSQ02 hard
+floor NFLATSEX hard
+floor FLAT9    hard
+floor FLAT1    hard
+floor NFBRWN01 hard
+floor NFBRWN02 hard
+floor F_R_FLAT hard
+floor BLUFLAT  hard
+floor NFGSTN01 hard
+floor GATE3    hard
+floor GATE7    hard
+floor TLITE6_5 hard
+floor TLITE6_7 hard
+floor FLAT5_9  hard
+floor F_R_FLAT hard
+floor N_WARN01 hard
+floor N_GRAY58 hard
+floor DOORRED  hard
+floor DOORBLU  hard
+floor N_STNE19 hard
+floor RFLAT66  hard
+floor RFLAT61  hard
+floor RCONC4   hard
+floor RMETL99  hard
+floor RFLAT66  hard
+floor RFLAT65  hard
+
+floor SHAWN2   metal
+floor DOORSTOP metal
+floor STEP1    metal
+floor FLOOR4_8 metal
+floor FLOOR5_1 metal
+floor CONS1_1  metal
+floor CONS1_5  metal
+floor NFSTGY12 metal
+floor NFSTBN12 metal
+floor NFSTTN12 metal
+floor STEPS1   metal
+floor STEPS2   metal
+floor STEPS3   metal
+floor STEPS4   metal
+floor FLAT23   metal
+floor SHAWN9   metal
+floor FLAT21   metal
+floor FLAT22   metal
+floor N_MTTK63 metal
+floor N_TKGN25 metal
+floor N_TKGR25 metal
+floor NWALL045 metal
+floor N_DRST02 metal
+floor N_MTSP3D metal
+floor SLIME14  metal
+floor RMETL37  metal
+floor RMETL101 metal
+floor RFLAT142 metal
+floor RFLAT143 metal
+floor N_MTSP3E metal
+floor N_MTSP3F metal
+floor Q2FROF08 metal
+floor Q2FMET12 metal
+floor FLR1_3_  metal
+floor N_MTST04 metal
+floor DMDADLNB metal
+floor BOX1F    metal
+floor J-FLAT2  metal
+floor Q2FFLR02 metal
+floor ML       metal
+
+floor FLAT20   tile
+floor FLOOR4_6 tile
+floor FLOOR5_3 tile
+floor FLOOR5_2 tile
+floor RFLAT162 tile
+floor RFLAT88  tile
+
+floor F_R_ROCK carpet
+floor F_B_ROCK carpet
+floor F_R_COMP carpet
+floor F_B_COMP carpet
+floor F_W_COMP carpet
+floor F_W_UAC2 carpet
+floor FLOOR1_1 carpet
+floor FLOOR1_2 carpet
+floor FLAT14   carpet
+floor FLAT15   carpet
+floor FLOOR1Y1 carpet
+floor FLAT14-Y carpet
+floor F_R_UAC1 carpet
+floor F_B_UAC1 carpet
+floor COMPBLUE carpet
+floor N_CRED01 carpet
+
+floor CRATOP1  wood
+floor CRATOP2  wood
+floor CRATOP4  wood
+floor CRATOP9  wood
+floor TLITE6_1 wood
+floor COMP01   wood
+floor NFCSPN01 wood
+floor NFCSPN02 wood
+floor NFCSPN04 wood
+floor FLOOR4_6 wood
+floor N_CSPN02 wood
+floor N_CSPN03 wood
+floor NFLTR04H wood
+floor NFLTB04H wood
+floor RFLAT172 wood
+
+floor GRASS1   dirt
+floor GRASS2   dirt
+floor GRASS3   dirt
+floor GRASS1_2 dirt
+floor GRASS1_3 dirt
+endif
