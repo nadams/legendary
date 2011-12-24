@@ -1,0 +1,30 @@
+texture RSKY6, 256, 128
+{
+	XScale 2.0
+	YScale 2.0
+	
+	Patch RSKY6, 0, 0
+}
+
+texture RSKY23, 256, 200
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch RSKY23, 0, 0
+	{
+		Blend 210, 210, 210, 255
+	}
+}
+
+texture T_RAIL, 64, 32
+{
+ XScale 1.0
+ YScale 1.0
+ 
+ Patch T_RAIL, 0, 0
+ {
+ 	Alpha 0.6
+ 	Style Translucent
+ }
+}

@@ -1,0 +1,26 @@
+flat fan1
+pic 1 tics 2
+pic 2 tics 2
+pic 3 tics 2
+pic 4 tics 2
+
+flat water1
+pic 1 tics 7
+pic 2 tics 7
+pic 3 tics 7
+pic 4 tics 7
+
+TEXTURE RMisc42
+pic RMisc42 tics 2
+pic RMisc43 tics 2
+pic RMisc44 tics 2
+pic RMisc45 tics 2
+
+warp flat fwater
+warp flat nukage
+warp flat slime
+warp flat lava
+warp flat wrpwtr
+warp flat wwater
+warp flat qwater
+warp flat slimenuk
