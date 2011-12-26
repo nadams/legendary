@@ -1,4 +1,5 @@
 *.backup*
-*.dbs
+maps/*.dbs
 maps/*.backup*
+maps/*.bak
 *.pk3
