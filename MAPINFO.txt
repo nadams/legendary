@@ -130,6 +130,6 @@ map map17 "The Rusted Zone"
 map map18 "testing"
 {
   sky1 = "RSKY6"
-  music = "m_map17"
+  music = "m_map18"
   next = "map01"
 }
