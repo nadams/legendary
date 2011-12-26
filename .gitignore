@@ -1,3 +1,4 @@
 *.backup*
 *.dbs
 maps/*.backup*
+*.pk3
