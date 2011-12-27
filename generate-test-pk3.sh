@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 FILES=$(ls | grep -vE '.pk3|.sh')
 CURRENT_REVISION=$(git log --pretty=format:'%h' -n 1)
