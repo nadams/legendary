@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 FILES=$(ls | grep -vE '.pk3|.sh')
 
