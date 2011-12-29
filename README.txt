@@ -3,7 +3,7 @@ Advanced engine needed  : Skulltag 0.98+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-38c.pk3
+Filename                : legendary-39.pk3
 Release date            : ---
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
@@ -14,7 +14,7 @@ Additional Credits to   : The Afterglow Team, KDiZD Team, Various others.
 ===========================================================================
 * What is included *
 
-New levels              : 17
+New levels              : 18
 Sounds                  : Yes
 Music                   : Yes
 Graphics                : Yes
@@ -111,13 +111,17 @@ MAP15:
 	Soundtrack from http://modarchive.org/
 
 MAP16:
-  A grey/metal themed map. Has a lot of curves and awesome slopes.
-  Soundtrack from http://modarchive.org/
+	A grey/metal themed map. Has a lot of curves and awesome slopes.
+	Soundtrack from http://modarchive.org/
   
 MAP17:
-  A quake-themed map with a heavy influence from Ralphis' Magical Ice Forts from ZDCTFMP.
-  Soundtrack from http://modarchive.org/
+	A quake-themed map with a heavy influence from Ralphis' Magical Ice Forts from ZDCTFMP.
+	Soundtrack from http://modarchive.org/
 
+MAP18:
+	A green metal/brick themed map. Has multiple entrance and exit paths, some harder to use than others.
+	Soundtrack from http://modarchive.org/
+	
 * Copyright / Permissions *
 
 Do whatever, just don't take my maps as your own maps.
