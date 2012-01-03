@@ -127,7 +127,7 @@ map map17 "The Rusted Zone"
 	next = "map18"
 }
 
-map map18 "testing"
+map map18 "TSUR 7" //Taco Stat Ultra Revision 7
 {
   sky1 = "RSKY6"
   music = "m_map18"
