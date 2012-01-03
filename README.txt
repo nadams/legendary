@@ -3,7 +3,7 @@ Advanced engine needed  : Skulltag 0.98+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-39.pk3
+Filename                : legendary-39a.pk3
 Release date            : ---
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
