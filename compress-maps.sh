@@ -15,7 +15,13 @@ mkdir $OUTDIR
 
 for MAP in $MAPS
 do
-	$ZDBSP --extended --compress --output=$OUTDIR/$MAP $MAP
+	$ZDBSP \
+		--empty-blockmap \
+		--zero-reject \
+		--extended \
+		--compress \
+		--output=$OUTDIR/$MAP \
+	$MAP
 done
 
 echo "Don't forget to move the compressed maps from the compressed directory into the maps directory."
