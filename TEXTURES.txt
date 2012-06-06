@@ -252,7 +252,419 @@ texture N_CRED01, 64, 128
 	Patch N_CRED02, 64, 0
 }
 
+texture N_CRTLT2, 64, 128 
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTBRLT, 0, 0
+	Patch N_CTBRLT, 32, 0
+	Patch N_CTGNL, 0, 64
+	Patch N_CTGNR, 32, 64
+}
 
+texture N_CRTLT3, 64, 128 
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTGNLT, 0, 0
+	Patch N_CTGNLT, 32, 0
+	Patch GCRATEL1, 0, 64
+	Patch GCRATER1, 32, 64
+}
+
+texture N_CRTTN2, 64, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTBRTN, 0, 0
+	Patch N_CTBRTN, 16, 0
+	Patch N_CTBRTN, 32, 0
+	Patch N_CTBRTN, 48, 0
+}
+
+texture N_CRTTN3, 64, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTGNTN, 0, 0
+	Patch N_CTGNTN, 16, 0
+	Patch N_CTGNTN, 32, 0
+	Patch N_CTGNTN, 48, 0
+}
+
+texture N_CRTWD2, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTGNL, 0, 64
+	Patch N_CTGNM, 32, 64
+	Patch N_CTGNM, 40, 64
+	Patch N_CTGNM, 48, 64
+	Patch N_CTGNM, 56, 64
+	Patch N_CTGNM, 64, 64
+	Patch N_CTGNM, 72, 64
+	Patch N_CTGNM, 80, 64
+	Patch N_CTGNM, 88, 64
+	Patch N_CTGNR, 96, 64
+	
+	Patch BCRATEL1, 0, 0
+	Patch BCRATEM1, 32, 0
+	Patch BCRATEM1, 40, 0
+	Patch BCRATEM1, 48, 0
+	Patch BCRATEM1, 56, 0
+	Patch BCRATEM1, 64, 0
+	Patch BCRATEM1, 72, 0
+	Patch BCRATEM1, 80, 0
+	Patch BCRATEM1, 88, 0
+	Patch BCRATER1, 0, 0
+}
+
+texture N_CSPN02, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CSPN02, 0, 0
+	Patch N_CSPN02, 0, 32
+	Patch N_CSPN02, 0, 64
+	Patch N_CSPN02, 0, 96
+}
+
+texture N_CSPN03, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CSPN03, 0, 0
+	Patch N_CSPN03, 0, 64
+}
+
+texture N_CSPN04, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CSPN04, 0, 0
+	Patch N_CSPN04, 0, 64
+}
+
+texture N_CSPN06, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CSPN06, 0, 0
+	Patch N_CSPN06, 0, 16
+	Patch N_CSPN06, 0, 32
+	Patch N_CSPN06, 0, 48
+	Patch N_CSPN06, 0, 64
+	Patch N_CSPN06, 0, 80
+	Patch N_CSPN06, 0, 96
+	Patch N_CSPN06, 0, 112
+}
+
+texture N_CSPN08, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CSPN08, 0, 0
+	Patch N_CSPN08, 0, 8
+	Patch N_CSPN08, 0, 16
+	Patch N_CSPN08, 0, 24
+	Patch N_CSPN08, 0, 32
+	Patch N_CSPN08, 0, 40
+	Patch N_CSPN08, 0, 48
+	Patch N_CSPN08, 0, 56
+	Patch N_CSPN08, 0, 64
+	Patch N_CSPN08, 0, 72
+	Patch N_CSPN08, 0, 80
+	Patch N_CSPN08, 0, 88
+	Patch N_CSPN08, 0, 96
+	Patch N_CSPN08, 0, 104
+	Patch N_CSPN08, 0, 112
+	Patch N_CSPN08, 0, 120
+}
+
+texture N_GRAY07, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_GRAY06, 0, 0
+	Patch N_WARN08, 0, 56
+	Patch N_WARN08, 0, 128
+}
+
+texture N_GRAY56, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch W33_7, 0, 0
+	Patch N_GRAY56, 0, 64
+}
+
+texture N_GRAY57, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_GRAY57, 0, 0
+	Patch N_GRAY57, 0, 64
+}
+
+texture N_GRAY58, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_GRAY58, 0, 0
+	Patch N_GRAY58, 0, 64
+}
+
+texture N_GRAY60, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_GRAY60, 0, 0
+	Patch N_GRAY60, 0, 64
+}
+
+texture N_GRAY63, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_GRAY63, 0, 0
+	Patch W31_1, 0, 64
+}
+
+texture N_GRAY67, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_GRAY67, 0, 0
+	Patch N_GRAY68, 0, 64
+}
+
+texture N_GRAY70, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_GRAY70, 0, 0
+	Patch N_GRAY68, 0, 64
+}
+
+texture N_GRAY72, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_TKGN35, 0, 0
+	Patch N_TKGN35, 64, 0
+	Patch N_GRAY70, 0, 31
+}
+
+texture N_GRAY73, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_TKGN35, 0, 0
+	Patch N_TKGN35, 64, 0
+	Patch N_GRAY70, 0, 31
+	Patch PS20A0, 33, 45
+}
+
+texture N_LTBL05, 32, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_LTBL3A, 0,  0
+	Patch N_LTBL3B, 8,  0
+	Patch N_LTBL3B, 16, 0
+	Patch N_LTBL3C, 24, 0
+	Patch N_LTBL3A, 0,  8
+	Patch N_LTBL3B, 8,  8
+	Patch N_LTBL3B, 16, 8
+	Patch N_LTBL3C, 24, 8
+	Patch N_LTBL3A, 0,  16
+	Patch N_LTBL3B, 8,  16
+	Patch N_LTBL3B, 16, 16
+	Patch N_LTBL3C, 24, 16
+	Patch N_LTBL3A, 0,  24
+	Patch N_LTBL3B, 8,  24
+	Patch N_LTBL3B, 16, 24
+	Patch N_LTBL3C, 24, 24
+	Patch N_LTBL3A, 0,  32
+	Patch N_LTBL3B, 8,  32
+	Patch N_LTBL3B, 16, 32
+	Patch N_LTBL3C, 24, 32
+	Patch N_LTBL3A, 0,  40
+	Patch N_LTBL3B, 8,  40
+	Patch N_LTBL3B, 16, 40
+	Patch N_LTBL3C, 24, 40
+	Patch N_LTBL3A, 0,  48
+	Patch N_LTBL3B, 8,  48
+	Patch N_LTBL3B, 16, 48
+	Patch N_LTBL3C, 24, 48
+	Patch N_LTBL3A, 0,  56
+	Patch N_LTBL3B, 8,  56
+	Patch N_LTBL3B, 16, 56
+	Patch N_LTBL3C, 24, 56
+	Patch N_LTBL3A, 0,  64
+	Patch N_LTBL3B, 8,  64
+	Patch N_LTBL3B, 16, 64
+	Patch N_LTBL3C, 24, 64
+	Patch N_LTBL3A, 0,  72
+	Patch N_LTBL3B, 8,  72
+	Patch N_LTBL3B, 16, 72
+	Patch N_LTBL3C, 24, 72
+	Patch N_LTBL3A, 0,  80
+	Patch N_LTBL3B, 8,  80
+	Patch N_LTBL3B, 16, 80
+	Patch N_LTBL3C, 24, 80
+	Patch N_LTBL3A, 0,  88
+	Patch N_LTBL3B, 8,  88
+	Patch N_LTBL3B, 16, 88
+	Patch N_LTBL3C, 24, 88
+	Patch N_LTBL3A, 0,  96
+	Patch N_LTBL3B, 8,  96
+	Patch N_LTBL3B, 16, 96
+	Patch N_LTBL3C, 24, 96
+	Patch N_LTBL3A, 0,  104
+	Patch N_LTBL3B, 8,  104
+	Patch N_LTBL3B, 16, 104
+	Patch N_LTBL3C, 24, 104
+	Patch N_LTBL3A, 0,  112
+	Patch N_LTBL3B, 8,  112
+	Patch N_LTBL3B, 16, 112
+	Patch N_LTBL3C, 24, 112
+	Patch N_LTBL3A, 0,  120
+	Patch N_LTBL3B, 8,  120
+	Patch N_LTBL3B, 16, 120
+	Patch N_LTBL3C, 24, 120
+}
+
+texture N_LTRD03, 16, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_LTRD3A, 0, 0
+	Patch N_LTRD3A, 8, 0
+	Patch N_LTRD3A, 0, 8
+	Patch N_LTRD3A, 8, 8
+	Patch N_LTRD3A, 0, 16
+	Patch N_LTRD3A, 8, 16
+	Patch N_LTRD3A, 0, 24
+	Patch N_LTRD3A, 8, 24
+	Patch N_LTRD3A, 0, 32
+	Patch N_LTRD3A, 8, 32
+	Patch N_LTRD3A, 0, 40
+	Patch N_LTRD3A, 8, 40
+	Patch N_LTRD3A, 0, 48
+	Patch N_LTRD3A, 8, 48
+	Patch N_LTRD3A, 0, 56
+	Patch N_LTRD3A, 8, 56
+	Patch N_LTRD3A, 0, 64
+	Patch N_LTRD3A, 8, 64
+	Patch N_LTRD3A, 0, 72
+	Patch N_LTRD3A, 8, 72
+	Patch N_LTRD3A, 0, 80
+	Patch N_LTRD3A, 8, 80
+	Patch N_LTRD3A, 0, 88
+	Patch N_LTRD3A, 8, 88
+	Patch N_LTRD3A, 0, 96
+	Patch N_LTRD3A, 8, 96
+	Patch N_LTRD3A, 0, 104
+	Patch N_LTRD3A, 8, 104
+	Patch N_LTRD3A, 0, 112
+	Patch N_LTRD3A, 8, 112
+	Patch N_LTRD3A, 0, 128
+	Patch N_LTRD3A, 8, 128
+}
+
+texture N_LTRD05, 32, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_LTRD3A, 0,  0
+	Patch N_LTRD3B, 8,  0
+	Patch N_LTRD3B, 16, 0
+	Patch N_LTRD3C, 24, 0
+	Patch N_LTRD3A, 0,  8
+	Patch N_LTRD3B, 8,  8
+	Patch N_LTRD3B, 16, 8
+	Patch N_LTRD3C, 24, 8
+	Patch N_LTRD3A, 0,  16
+	Patch N_LTRD3B, 8,  16
+	Patch N_LTRD3B, 16, 16
+	Patch N_LTRD3C, 24, 16
+	Patch N_LTRD3A, 0,  24
+	Patch N_LTRD3B, 8,  24
+	Patch N_LTRD3B, 16, 24
+	Patch N_LTRD3C, 24, 24
+	Patch N_LTRD3A, 0,  32
+	Patch N_LTRD3B, 8,  32
+	Patch N_LTRD3B, 16, 32
+	Patch N_LTRD3C, 24, 32
+	Patch N_LTRD3A, 0,  40
+	Patch N_LTRD3B, 8,  40
+	Patch N_LTRD3B, 16, 40
+	Patch N_LTRD3C, 24, 40
+	Patch N_LTRD3A, 0,  48
+	Patch N_LTRD3B, 8,  48
+	Patch N_LTRD3B, 16, 48
+	Patch N_LTRD3C, 24, 48
+	Patch N_LTRD3A, 0,  56
+	Patch N_LTRD3B, 8,  56
+	Patch N_LTRD3B, 16, 56
+	Patch N_LTRD3C, 24, 56
+	Patch N_LTRD3A, 0,  64
+	Patch N_LTRD3B, 8,  64
+	Patch N_LTRD3B, 16, 64
+	Patch N_LTRD3C, 24, 64
+	Patch N_LTRD3A, 0,  72
+	Patch N_LTRD3B, 8,  72
+	Patch N_LTRD3B, 16, 72
+	Patch N_LTRD3C, 24, 72
+	Patch N_LTRD3A, 0,  80
+	Patch N_LTRD3B, 8,  80
+	Patch N_LTRD3B, 16, 80
+	Patch N_LTRD3C, 24, 80
+	Patch N_LTRD3A, 0,  88
+	Patch N_LTRD3B, 8,  88
+	Patch N_LTRD3B, 16, 88
+	Patch N_LTRD3C, 24, 88
+	Patch N_LTRD3A, 0,  96
+	Patch N_LTRD3B, 8,  96
+	Patch N_LTRD3B, 16, 96
+	Patch N_LTRD3C, 24, 96
+	Patch N_LTRD3A, 0,  104
+	Patch N_LTRD3B, 8,  104
+	Patch N_LTRD3B, 16, 104
+	Patch N_LTRD3C, 24, 104
+	Patch N_LTRD3A, 0,  112
+	Patch N_LTRD3B, 8,  112
+	Patch N_LTRD3B, 16, 112
+	Patch N_LTRD3C, 24, 112
+	Patch N_LTRD3A, 0,  120
+	Patch N_LTRD3B, 8,  120
+	Patch N_LTRD3B, 16, 120
+	Patch N_LTRD3C, 24, 120
+}
 
 
 
