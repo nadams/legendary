@@ -28,3 +28,44 @@ texture T_RAIL, 64, 32
  	Style Translucent
  }
 }
+
+texture 2GRATE3, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch 1GRATE3, 0, 32
+}
+
+texture BRICK8_2, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch FLRMET, 0, 0
+	Patch FLRMET, 0, 64
+}
+
+texture COMPTILE, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch COMP03_7, 0, 0
+	Patch COMP03_1, 32, 0
+	Patch COMP03_6, 96, 0
+	Patch COMP03_7, 0, 64
+	Patch COMP03_1, 32, 64
+	Patch COMP03_6, 96, 64
+}
+
+texture DOORHI, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch DOOR2_3, 0, 0
+	Patch DOOR2_3, 0, 32
+	Patch DOOR2_3, 0, 64
+	Patch DOOR2_3, 0, 96
+}
