@@ -69,3 +69,202 @@ texture DOORHI, 64, 128
 	Patch DOOR2_3, 0, 64
 	Patch DOOR2_3, 0, 96
 }
+
+texture ICKWALL6, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch WALL69_4, 0, 0
+	Patch W32_4, 0, 64
+}
+
+texture LITE2, 64, 128 
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch WALL02_2, 0, 56
+	Patch WALL02_2, 0, 0
+	Patch FLAMP, 5, 0
+	Patch FLAMP, 35, 0
+}
+
+texture LITE4, 16, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch T14_5, 0, 56
+	Patch WLITA0, 0, 0
+	Patch WLITC0, 8, 0
+	Patch WLITA0, 0, 48
+	Patch WLITC0, 8, 48
+	Patch WLITA0, 0, 40
+	Patch WLITC0, 8, 40
+	Patch WLITA0, 0, 32
+	Patch WLITC0, 8, 32
+	Patch WLITA0, 0, 24
+	Patch WLITC0, 8, 24
+	Patch WLITA0, 0, 16
+	Patch WLITC0, 8, 16
+	Patch WLITA0, 0, 8
+	Patch WLITC0, 8, 8
+}
+
+texture LITESTON, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch W28_5, 0, 0
+	Patch W28_8, 0, 64
+	Patch FLAMP, 7, 27
+	Patch FLAMP, 37, 27
+}
+
+texture N_BNGN01, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_BNGN1B, 0, 56
+	Patch N_BNGN1B, 0, 0
+	Patch N_BNGN1C, 64, 56
+	Patch N_BNGN1A, 88, 56
+	Patch N_BNGN1C, 64, 0
+	Patch N_BNGN1A, 88, 0
+}
+
+texture N_CGRY01, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CGRY01, 0, 0
+	Patch N_CGRY02, 0, 64
+}
+
+texture N_CM02RD, 256, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch COMP02_1, 0, 0
+	Patch N_CM2_2R, 64, 0
+	Patch N_CM2_4R, 128, 0
+	Patch N_CM2_3R, 192, 0
+	Patch N_CM2_6R, 0, 64
+	Patch N_CM2_8R, 64, 64
+	Patch N_CM2_7R, 128, 64
+	Patch N_CM2_5R, 192, 64
+	Patch STEP08, 0, 56
+	Patch STEP08, 32, 56
+	Patch STEP08, 64, 56
+	Patch STEP08, 96, 56
+	Patch STEP08, 128, 56
+	Patch STEP08, 160, 56
+	Patch STEP08, 192, 56
+	Patch STEP08, 224, 56
+	Patch STEP08, 0, 120
+	Patch STEP08, 32, 120
+	Patch STEP08, 64, 120
+	Patch STEP08, 96, 120
+	Patch STEP08, 128, 120
+	Patch STEP08, 160, 120
+	Patch STEP08, 192, 120
+	Patch STEP08, 224, 120
+}
+
+texture N_CMP01, 256, 64
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CMP05A, 0, 0
+	Patch N_CMP05B, 64, 0
+	Patch N_CMP05C, 128, 0
+	Patch N_CMP05D, 192, 0
+}
+
+texture N_CMTLRD, 256, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch COMP04_5, 32, 0
+	Patch COMP04_8, 96, 0
+	Patch COMP03_8, 160, 0
+	Patch COMP04_6, 0, 64
+	Patch COMP04_7, 64, 64
+	Patch N_CM4_2R, 128, 64
+	Patch N_CM3_5R, 192, 0
+	Patch N_CM4_2R, 192, 64
+	Patch COMP03_8, 0, 0
+}
+
+texture N_CMVN01, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CMVN01, 0, 0
+	Patch N_CMVN01, 64, 0
+}
+
+texture N_CMVN02, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CMVN02, 0, 0
+	Patch N_CMVN02, 64, 0
+}
+
+texture N_CRATE4, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTGNL, 0, 0
+	Patch N_CTGNR, 32, 0
+	Patch N_CTGNL, 0, 64
+	Patch N_CTGNR, 32, 64
+}
+
+texture N_CRATE6, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CTGNL, 0, 0
+	Patch N_CTGNR, 32, 0
+	Patch GCRATEL1, 0, 64
+	Patch GCRATER1, 32, 64
+}
+
+texture N_CRED01, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CRED01, 0, 0
+	Patch N_CRED02, 64, 0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
