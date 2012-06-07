@@ -827,6 +827,14 @@ texture STONPOIS, 64, 128
 	Patch PS20A0, 1, 43
 }
 
+texture N_CMP02, 64, 64
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_CMP05E, 0, 0
+}
+
 
 
 
