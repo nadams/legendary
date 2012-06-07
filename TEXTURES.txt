@@ -666,8 +666,166 @@ texture N_LTRD05, 32, 128
 	Patch N_LTRD3C, 24, 120
 }
 
+texture N_MT5E06, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_MT5E06, 0, 0
+	Patch N_MT5E06, 0, 64
+}
 
+texture N_SVLB05, 16, 128
+{
+	Patch BLITA0, 0, 0
+	Patch BLITC0, 8, 0
+	Patch BLITA0, 0, 8
+	Patch BLITC0, 8, 8
+	Patch BLITA0, 0, 16
+	Patch BLITC0, 0, 16
+	Patch BLITA0, 0, 24
+	Patch BLITC0, 8, 24
+	Patch BLITA0, 0, 32
+	Patch BLITC0, 8, 32
+	Patch BLITA0, 0, 40
+	Patch BLITC0, 8, 40
+	Patch BLITA0, 0, 48
+	Patch BLITC0, 8, 48
+	Patch N_SVLB05, 0, 56
+}
 
+texture N_SVLR05, 16, 128
+{
+	Patch N_LTRDA0, 0, 0
+	Patch N_LTRDC0, 8, 0
+	Patch N_LTRDA0, 0, 8
+	Patch N_LTRDC0, 8, 8
+	Patch N_LTRDA0, 0, 16
+	Patch N_LTRDC0, 0, 16
+	Patch N_LTRDA0, 0, 24
+	Patch N_LTRDC0, 8, 24
+	Patch N_LTRDA0, 0, 32
+	Patch N_LTRDC0, 8, 32
+	Patch N_LTRDA0, 0, 40
+	Patch N_LTRDC0, 8, 40
+	Patch N_LTRDA0, 0, 48
+	Patch N_LTRDC0, 8, 48
+	Patch N_SVLR05, 0, 56
+}
+
+texture N_TKGN11, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch RW39_1, 0, 0
+	Patch N_TKLTBL, 3, 3
+}
+
+texture N_TKGN14, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch RW39_1, 0, 0
+	Patch N_TKLTRD, 3, 3
+}
+
+texture NMETBIG2, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL046, 0, 0
+}
+
+texture NMETBIG3, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL047, 0, 0
+}
+
+texture NMETBIGA, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL054, 0, 0
+}
+
+texture NMETBIGB, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL055, 0, 0
+}
+
+texture NOTECH3, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL059, 0, 0
+}
+
+texture NOTECH5, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL061, 0, 0
+}
+
+texture STEP7, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP01, 0, 0
+	Patch STEP01, 0, 8
+}
+
+texture STEP8, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP02, 0, 0
+	Patch STEP02, 0, 8
+}
+
+texture STEP9, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP11, 0, 0
+	Patch STEP11, 0, 8
+}
+
+texture STONPOIS, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch WALL01_1, 0, 0
+	Patch WALL01_2, 16, 0
+	Patch WALL01_3, 32, 0
+	Patch WALL01_4, 48, 0
+	
+	Patch WALL01_1, 0, 72
+	Patch WALL01_2, 16, 72
+	Patch WALL01_3, 32, 72
+	Patch WALL01_4, 48, 72
+	
+	Patch W33_8, 0, 64
+	Patch W33_8, 0, 120
+	
+	Patch PS20A0, 1, 43
+}
 
 
 
