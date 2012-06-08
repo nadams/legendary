@@ -249,7 +249,7 @@ texture N_CRED01, 64, 128
 	YScale 1.0
 	
 	Patch N_CRED01, 0, 0
-	Patch N_CRED02, 64, 0
+	Patch N_CRED02, 0, 64
 }
 
 texture N_CRTLT2, 64, 128 
@@ -562,37 +562,37 @@ texture N_LTRD03, 16, 128
 	YScale 1.0
 	
 	Patch N_LTRD3A, 0, 0
-	Patch N_LTRD3A, 8, 0
+	Patch N_LTRD3C, 8, 0
 	Patch N_LTRD3A, 0, 8
-	Patch N_LTRD3A, 8, 8
+	Patch N_LTRD3C, 8, 8
 	Patch N_LTRD3A, 0, 16
-	Patch N_LTRD3A, 8, 16
+	Patch N_LTRD3C, 8, 16
 	Patch N_LTRD3A, 0, 24
-	Patch N_LTRD3A, 8, 24
+	Patch N_LTRD3C, 8, 24
 	Patch N_LTRD3A, 0, 32
-	Patch N_LTRD3A, 8, 32
+	Patch N_LTRD3C, 8, 32
 	Patch N_LTRD3A, 0, 40
-	Patch N_LTRD3A, 8, 40
+	Patch N_LTRD3C, 8, 40
 	Patch N_LTRD3A, 0, 48
-	Patch N_LTRD3A, 8, 48
+	Patch N_LTRD3C, 8, 48
 	Patch N_LTRD3A, 0, 56
-	Patch N_LTRD3A, 8, 56
+	Patch N_LTRD3C, 8, 56
 	Patch N_LTRD3A, 0, 64
-	Patch N_LTRD3A, 8, 64
+	Patch N_LTRD3C, 8, 64
 	Patch N_LTRD3A, 0, 72
-	Patch N_LTRD3A, 8, 72
+	Patch N_LTRD3C, 8, 72
 	Patch N_LTRD3A, 0, 80
-	Patch N_LTRD3A, 8, 80
+	Patch N_LTRD3C, 8, 80
 	Patch N_LTRD3A, 0, 88
-	Patch N_LTRD3A, 8, 88
+	Patch N_LTRD3C, 8, 88
 	Patch N_LTRD3A, 0, 96
-	Patch N_LTRD3A, 8, 96
+	Patch N_LTRD3C, 8, 96
 	Patch N_LTRD3A, 0, 104
-	Patch N_LTRD3A, 8, 104
+	Patch N_LTRD3C, 8, 104
 	Patch N_LTRD3A, 0, 112
-	Patch N_LTRD3A, 8, 112
-	Patch N_LTRD3A, 0, 128
-	Patch N_LTRD3A, 8, 128
+	Patch N_LTRD3C, 8, 112
+	Patch N_LTRD3A, 0, 120
+	Patch N_LTRD3C, 8, 120
 }
 
 texture N_LTRD05, 32, 128
@@ -804,6 +804,42 @@ texture STEP9, 32, 16
 	
 	Patch STEP11, 0, 0
 	Patch STEP11, 0, 8
+}
+
+texture STEP10, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP12, 0, 0
+	Patch STEP12, 0, 8
+}
+
+texture STEP11, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP13, 0, 0
+	Patch STEP13, 0, 8
+}
+
+texture STEP12, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP14, 0, 0
+	Patch STEP14, 0, 8
+}
+
+texture STEP12, 32, 16
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch STEP15, 0, 0
+	Patch STEP15, 0, 8
 }
 
 texture STONPOIS, 64, 128
