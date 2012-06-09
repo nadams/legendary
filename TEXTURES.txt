@@ -769,6 +769,7 @@ texture NOTECH3, 64, 128
 	YScale 1.0
 	
 	Patch NWALL059, 0, 0
+	Patch NWALL059, 0, 64
 }
 
 texture NOTECH5, 64, 128
@@ -777,6 +778,7 @@ texture NOTECH5, 64, 128
 	YScale 1.0
 	
 	Patch NWALL061, 0, 0
+	Patch NWALL061, 0, 64
 }
 
 texture STEP7, 32, 16
