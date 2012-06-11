@@ -907,9 +907,45 @@ texture BLDG_2, 512, 512
 	Patch BLDG_2, 0, 0
 }
 
+texture N_STNE19, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_STNE19, 0, 0
+}
 
+texture N_STNE20, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_STNE20, 0, 0
+}
 
+texture B_STNE19, 128, 128
+{
+	XScale 2.0
+	YScale 2.0
+	
+	Patch N_STNE19, 0, 0
+}
 
+texture N_STNE14, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch N_STNE14, 0, 0
+}
+
+texture B_STNE14, 128, 128
+{
+	XScale 4.0
+	YScale 4.0
+	
+	Patch N_STNE14, 0, 0
+}
 
 
 
