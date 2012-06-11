@@ -873,6 +873,15 @@ texture N_CMP02, 64, 64
 	Patch N_CMP05E, 0, 0
 }
 
+texture GRAYBACK, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch GRAYBACK, 0, 0
+	Patch GRAYBACK, 0, 64
+}
+
 texture GRYBAK_B, 64, 128
 {
 	XScale 2.0
