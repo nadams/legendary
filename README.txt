@@ -1,9 +1,9 @@
 ===========================================================================
-Advanced engine needed  : Skulltag 0.98+
+Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-39a.pk3
+Filename                : legendary-39d.pk3
 Release date            : ---
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
@@ -123,7 +123,4 @@ MAP18:
 	Soundtrack from http://modarchive.org/
 	
 * Copyright / Permissions *
-
 Do whatever, just don't take my maps as your own maps.
-
-Web sites: http://node-3.net/wads/
