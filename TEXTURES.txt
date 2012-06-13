@@ -321,7 +321,7 @@ texture N_CRTWD2, 128, 128
 	Patch BCRATEM1, 72, 0
 	Patch BCRATEM1, 80, 0
 	Patch BCRATEM1, 88, 0
-	Patch BCRATER1, 0, 0
+	Patch BCRATER1, 96, 0
 }
 
 texture N_CSPN02, 64, 128
