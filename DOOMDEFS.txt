@@ -1,0 +1,29 @@
+// Red Column
+flickerlight2 RedColumn
+{
+    color 1.0 0.0 0.0
+    size 48
+    secondarySize 64
+    interval 0.1
+    offset 0 60 0
+}
+
+object RedColumn
+{
+    frame RCOL { light RedColumn }
+}
+
+// Blue Column
+flickerlight2 BlueColumn
+{
+    color 0.0 0.0 1.0
+    size 48
+    secondarySize 64
+    interval 0.1
+    offset 0 60 0
+}
+
+object BlueColumn
+{
+    frame BCOL { light BlueColumn }
+}
