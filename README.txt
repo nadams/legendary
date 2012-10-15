@@ -3,18 +3,19 @@ Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-39d.pk3
+Filename                : legendary-40.pk3
 Release date            : ---
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
 
 Description             : A set of levels designed for Capture the Flag/One Flag CTF.
 
-Additional Credits to   : The Afterglow Team, KDiZD Team, Various others.
+Additional Credits to   : The Afterglow Team, KDiZD Team, 
+						  The Mod Archivem, Various others.
 ===========================================================================
 * What is included *
 
-New levels              : 18
+New levels              : 19
 Sounds                  : Yes
 Music                   : Yes
 Graphics                : Yes
@@ -120,6 +121,10 @@ MAP17:
 
 MAP18:
 	A green metal/brick themed map. Has multiple entrance and exit paths, some harder to use than others.
+	Soundtrack from http://modarchive.org/
+	
+MAP19:
+	A brick/metal/cave themed map. Has multiple entrances and exits in and out of bases.
 	Soundtrack from http://modarchive.org/
 	
 * Copyright / Permissions *
