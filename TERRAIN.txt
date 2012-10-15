@@ -176,6 +176,7 @@ floor SOIL     rock
 floor TANROCK5 rock
 floor FLAT1    rock
 floor GRYMS    rock
+floor TANROCK4 rock
 
 floor CEIL5_1  hard
 floor CEIL5_2  hard
@@ -218,6 +219,11 @@ floor RCONC4   hard
 floor RMETL99  hard
 floor RFLAT66  hard
 floor RFLAT65  hard
+floor NFBRKA01 hard
+floor NFBRKA02 hard
+floor NFBRKA03 hard
+floor GRAYBACK hard
+floor N_BRGR12 hard
 
 floor SHAWN2   metal
 floor DOORSTOP metal
@@ -259,6 +265,14 @@ floor BOX1F    metal
 floor J-FLAT2  metal
 floor Q2FFLR02 metal
 floor ML       metal
+floor BRICK8_2 metal
+floor NFMTSP3D metal
+floor NFMTSP3C metal
+floor N_MTTK63 metal
+floor N_TKGR22 metal
+floor RMETL24  metal
+floor N_MTTK62 metal
+floor PWFLAT25 metal
 
 floor FLAT20   tile
 floor FLOOR4_6 tile
@@ -283,6 +297,7 @@ floor F_R_UAC1 carpet
 floor F_B_UAC1 carpet
 floor COMPBLUE carpet
 floor N_CRED01 carpet
+floor FLAT14-M carpet
 
 floor CRATOP1  wood
 floor CRATOP2  wood
@@ -305,4 +320,6 @@ floor GRASS2   dirt
 floor GRASS3   dirt
 floor GRASS1_2 dirt
 floor GRASS1_3 dirt
+floor FGRASS1  dirt
+floor ROCK19_1 dirt
 endif

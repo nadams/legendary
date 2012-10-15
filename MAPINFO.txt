@@ -131,5 +131,12 @@ map map18 "TSURS 7" //Taco Star Ultra Ranger Station 7
 {
   sky1 = "RSKY6"
   music = "m_map18"
-  next = "map01"
+  next = "map19"
+}
+
+map map19 "Omega 41"
+{
+	sky1 = "BLACK"
+	music = "m_map19"
+	next = "map01"
 }
