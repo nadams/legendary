@@ -1,0 +1,16 @@
+ACTOR BlueColumn 5159
+{
+	Game Doom
+	Game Heretic
+	Game Hexen
+	Radius 16
+	Height 48
+	+SOLID
+	+USESPECIAL
+	States
+	{
+	Spawn:
+		BCOL A -1
+		Stop
+	}
+}

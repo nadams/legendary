@@ -138,5 +138,12 @@ map map19 "Omega 41"
 {
 	sky1 = "BLACK"
 	music = "m_map19"
+	next = "map20"
+}
+
+map map20 "arctic"
+{
+	sky1 = "H2S1VAR3"
+	music = "M_MAP20"
 	next = "map01"
 }
