@@ -7,3 +7,4 @@ if [ -f legendary.pk3 ]; then
 fi
 
 zip -r9 legendary.pk3 $FILES -x *.backup* *.dbs *.bak
+
