@@ -141,7 +141,7 @@ map map19 "Omega 41"
 	next = "map20"
 }
 
-map map20 "arctic"
+map map20 "Tempest"
 {
 	sky1 = "H2S1VAR3"
 	music = "M_MAP20"
