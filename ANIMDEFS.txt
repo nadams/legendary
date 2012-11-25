@@ -10,6 +10,11 @@ pic 2 tics 7
 pic 3 tics 7
 pic 4 tics 7
 
+flat granuke1
+pic granuke1 tics 8
+pic granuke2 tics 8
+pic granuke3 tics 8
+
 TEXTURE RMisc42
 pic RMisc42 tics 2
 pic RMisc43 tics 2
