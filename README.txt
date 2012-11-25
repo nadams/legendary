@@ -3,8 +3,8 @@ Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-40a.pk3
-Release date            : ---
+Filename                : legendary-41.pk3
+Release date            : 25/11/2012
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
 
@@ -125,6 +125,10 @@ MAP18:
 	
 MAP19:
 	A brick/metal/cave themed map. Has multiple entrances and exits in and out of bases.
+	Soundtrack from http://modarchive.org/
+	
+MAP20:
+	An underwater/arctic base. Features use of 3d floors in the middle of the map.
 	Soundtrack from http://modarchive.org/
 	
 * Copyright / Permissions *
