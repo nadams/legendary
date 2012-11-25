@@ -1,0 +1,47 @@
+actor PadJetsCommon
+{
+	+FORCEYBILLBOARD
+	+NoBlockMap
+	+NoClip
+	+NoGravity 
+	+NoInteraction
+	-Solid
+	
+	Radius 0
+	Height 0
+	RenderStyle Translucent
+	Alpha 0.2
+ 	Scale 0.32
+ 	
+	States
+ 	{
+  		Spawn:
+   			JETS AAAAA 1 Bright A_FadeIn(0.18)
+   			JETS AAAAAAAAAAAA 1 Bright A_FadeOut(0.08)
+   		Stop
+ 	}
+}
+
+actor PadJets 16384
+{
+	+CLIENTSIDEONLY
+	+NoBlockMap 
+	+NoClip
+	+NoGravity 
+	+NoInteraction
+	+NoSector 
+	-Solid
+	
+        States
+        {
+        	Spawn:
+           		Active:
+					TNT1 A 0
+					TNT1 A 1 A_SpawnItemEx ("PadJetsCommon", random(-24, 24), random(-24, 24), random(0, 8), 0, 0, random(1,4), 0, SXF_CLIENTSIDE|SXF_NOCHECKPOSITION, 0)
+					TNT1 A 1
+					Loop
+				Inactive:
+					TNT1 A 0
+					Loop
+        }   
+}
