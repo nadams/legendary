@@ -5,6 +5,9 @@ world/thunder		  	THNDR1
 world/watersplash		dssplash
 FAN						FAN
 POWER					POWER
+Steam/Loop				STEMLOOP
+Steam/Fire				STEMFIRE
+
 
 
 $random floor/rock  { floor/rock01 floor/rock02 floor/rock03 floor/rock04 floor/rock05 floor/rock06 floor/rock07 floor/rock08 }

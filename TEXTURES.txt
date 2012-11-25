@@ -1109,7 +1109,20 @@ texture TEKMETL2, 64, 200
 	Patch N_MTTK63, 0, 192
 }
 
+texture NGRYMTL1, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL030, 0, 0
+}
 
-
+texture BRDGWIN, 128, 72
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch NWALL030, 0, 0
+}
 
 
