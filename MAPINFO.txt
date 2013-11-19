@@ -148,3 +148,9 @@ map map20 "Tempest"
 	next = "map01"
 	evenlighting
 }
+
+map map22 "8-Bit" {
+	sky1 = "BLACK"
+	music = "m_map22"
+	next = "map01"
+}
