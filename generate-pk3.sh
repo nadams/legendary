@@ -6,5 +6,5 @@ if [ -f legendary.pk3 ]; then
 	rm -rf legendary.pk3
 fi
 
-zip -r9 legendary.pk3 $FILES -x *.backup* *.dbs *.bak
+zip -r9 legendary.pk3 $FILES -x *.backup* *.dbs *.bak *.db
 

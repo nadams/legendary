@@ -7,4 +7,4 @@ if [ -f legendary-$CURRENT_REVISION.pk3 ]; then
 	rm -rf legendary-$CURRENT_REVISION.pk3
 fi
 
-zip -9r legendary-$CURRENT_REVISION.pk3 $FILES -x *.backup* *.dbs *.bak
+zip -9r legendary-$CURRENT_REVISION.pk3 $FILES -x *.backup* *.dbs *.bak *.db
