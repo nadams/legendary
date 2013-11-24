@@ -153,6 +153,12 @@ map map21 "Nightmare"
 {
 	sky1 = "BLACK"
 	music = "m_map21"
+	next = "map22"
+}
+
+map map22 "8-Bit" {
+	sky1 = "BLACK"
+	music = "m_map22"
 	next = "map01"
 }
 
