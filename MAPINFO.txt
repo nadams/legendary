@@ -145,6 +145,14 @@ map map20 "Tempest"
 {
 	sky1 = "H2S1VAR3"
 	music = "M_MAP20"
-	next = "map01"
+	next = "map21"
 	evenlighting
 }
+
+map map21 "Nightmare"
+{
+	sky1 = "BLACK"
+	music = "m_map21"
+	next = "map01"
+}
+
