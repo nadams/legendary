@@ -1,5 +1,7 @@
 #include props/bluecolumn.decorate
 #include props/redcolumn.decorate
+#include props/bluesphere.decorate
+#include props/redsphere.decorate
 
 #include effects/bubbles.decorate
 #include effects/padjets.decorate

@@ -159,6 +159,11 @@ map map21 "Nightmare"
 map map22 "8-Bit" {
 	sky1 = "BLACK"
 	music = "m_map22"
-	next = "map01"
+	next = "map23"
 }
 
+map map23 "The Floating City" {
+	sky1 = "SKYBLUSZ", 0.08
+	music = "M_MAP23"
+	next = "map01"
+}
