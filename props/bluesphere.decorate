@@ -1,0 +1,10 @@
+actor BlueSphere 29501 {
+	Height 73
+	Radius 19
+	+SOLID
+	States {
+		Spawn:
+			COL6 A -1 Bright
+			Stop
+	}
+}
