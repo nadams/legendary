@@ -3,8 +3,8 @@ Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-42.pk3
-Release date            : 25/11/2012
+Filename                : legendary-42a.pk3
+Release date            : 30/11/2013
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
 
@@ -15,7 +15,7 @@ Additional Credits to   : The Afterglow Team, KDiZD Team,
 ===========================================================================
 * What is included *
 
-New levels              : 20
+New levels              : 22
 Sounds                  : Yes
 Music                   : Yes
 Graphics                : Yes
@@ -43,4 +43,12 @@ Editor(s) used          : Doom Builder(2), XWE, SLumpED
 May Not Run With...     : Non-ZDoom 2.x based games.
 	
 * Copyright / Permissions *
-Do whatever, just don't take my maps as your own maps.
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
