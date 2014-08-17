@@ -146,7 +146,7 @@ map map23 "The Floating City" {
 	next = "map24"
 }
 
-map map24 "Unknown" {
+map map24 "Power Mountain" {
 	sky1 = "QSKY2"
 	music = "M_MAP24"
 	next = "map01"
