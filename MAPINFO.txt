@@ -128,7 +128,7 @@ map map20 "Tempest" {
 	evenlighting
 }
 
-map map21 "Nightmare" {
+map map21 "Nightmare by p0x" {
 	sky1 = "BLACK"
 	music = "m_map21"
 	next = "map22"
