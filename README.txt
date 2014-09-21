@@ -3,8 +3,8 @@ Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-42a.pk3
-Release date            : 30/11/2013
+Filename                : legendary-43.pk3
+Release date            : 19/09/2014
 Author                  : silvertear
 Email Address           : silvertear@node-3.net
 
@@ -15,14 +15,14 @@ Additional Credits to   : The Afterglow Team, KDiZD Team,
 ===========================================================================
 * What is included *
 
-New levels              : 22
+New levels              : 24
 Sounds                  : Yes
 Music                   : Yes
 Graphics                : Yes
 Decorate                : Yes
 Demos                   : No
 Other                   : No
-Other files required    : None
+Other files required    : Skulltag Actors, Skulltag Data
 
 
 * Play Information *

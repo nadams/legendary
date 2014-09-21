@@ -1,64 +1,54 @@
-map map01 "The Remote Star Base"
-{
+map map01 "The Remote Star Base" {
 	sky1 = "RSKY6"
 	music = "M_MAP01"
 	next = "map02"
 }
 
-map map02 "Under the Stars"
-{
+map map02 "Under the Stars" {
 	sky1 = "SKYBLUSZ", -0.2
 	evenlighting
 	music = "M_MAP02"
 	next = "map03"
 }
 
-map map03 "On a Cloudy Day"
-{
+map map03 "On a Cloudy Day" {
 	sky1 = "H2S1VAR3", -0.05
 	music = "M_MAP03"
 	next = "map04"
 }
 
-map map04 "Nukage Holding"
-{
+map map04 "Nukage Holding" {
 	sky1 = "RSKY2"
 	music = "M_MAP04"
 	next = "map05"
 }
 
-map map05 "The Void"
-{
+map map05 "The Void" {
 	sky1 = "RSKY6"
 	music = "M_MAP05"
 	next = "map06"
 }
 
-map map06 "Mayamar"
-{
+map map06 "Mayamar" {
 	sky1 = "RSKY2"
 	music = "M_MAP06"
 	next = "map07"
 }
 
-map map07 "Phobos Command"
-{
+map map07 "Phobos Command" {
 	sky1 = "RSKY2"
 	evenlighting
 	music = "M_MAP07"
 	next = "map08"
 }
 
-map map08 "Hellfire"
-{
+map map08 "Hellfire" {
 	sky1 = "HELLSKY"
 	music = "M_MAP08"
 	next = "map09"
 }
 
-
-map map09 "Asylum"
-{
+map map09 "Asylum" {
 	sky1 = "RSKY23"
 	music = "M_MAP09"
 	next = "map10"
@@ -66,91 +56,79 @@ map map09 "Asylum"
 	clipmidtextures
 }
 
-map map10 "Grey Infinity"
-{
+map map10 "Grey Infinity" {
 	sky1 = "H2S1VAR3"
 	music = "M_MAP10"
 	next = "map11"
 }
 
-map map11 "Desolation"
-{
+map map11 "Desolation" {
 	sky1 = "RSKY6"
 	music = "M_MAP11"
 	evenlighting
 	next = "map12"
 }
 
-map map12 "Mount CTF"
-{
+map map12 "Mount CTF" {
 	sky1 = "H2S1VAR3", -0.04
 	evenlighting
 	music = "M_MAP12"
 	next = "map13"
 }
 
-map map13 "Back to Phobos"
-{
+map map13 "Back to Phobos" {
 	sky1 = "RSKY2"
 	music = "M_MAP13"
 	evenlighting
 	next = "map14"
 }
 
-map map14 "The Phobos Project"
-{
+map map14 "The Phobos Project" {
 	sky1 = "RSKY2"
 	music = "M_MAP14"
 	next = "map15"
 }
 
-map map15 "Outpost Zero"
-{
+map map15 "Outpost Zero" {
 	sky1 = "H2S1VAR4"
 	music = "M_MAP15"
 	fade = "22 22 22"
 	next = "map16"
 }
 
-map map16 "Infinity"
-{
+map map16 "Infinity" {
 	sky1 = "RSKY6"
 	music = "M_MAP16"
 	evenlighting
 	next = "map17"
 }
 
-map map17 "The Rusted Zone"
-{
+map map17 "The Rusted Zone" {
 	sky1 = "QSKY2"
 	music = "M_MAP17"
 	next = "map18"
 }
 
-map map18 "TSURS 7" //Taco Star Ultra Ranger Station 7
-{
+map map18 "TSURS 7" { //Taco Star Ultra Ranger Station 7
   sky1 = "RSKY6"
   music = "m_map18"
   next = "map19"
 }
 
-map map19 "Omega 41"
-{
+map map19 "Omega 41" {
 	sky1 = "BLACK"
 	music = "m_map19"
 	next = "map20"
 }
 
-map map20 "Tempest"
-{
+map map20 "Tempest" {
 	sky1 = "H2S1VAR3"
 	music = "M_MAP20"
 	next = "map21"
 	evenlighting
 }
 
-map map21 "Nightmare"
-{
+map map21 "Nightmare by p0x" {
 	sky1 = "BLACK"
 	music = "m_map21"
 	next = "map22"
@@ -165,5 +143,11 @@ map map22 "8-Bit" {
 map map23 "The Floating City" {
 	sky1 = "SKYBLUSZ", 0.08
 	music = "M_MAP23"
+	next = "map24"
+}
+
+map map24 "Power Mountain" {
+	sky1 = "QSKY2"
+	music = "M_MAP24"
 	next = "map01"
 }
