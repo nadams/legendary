@@ -140,7 +140,7 @@ map map22 "8-Bit" {
 	next = "map23"
 }
 
-map map23 "The Floating City" {
+map map23 "The Fallen City" {
 	sky1 = "SKYBLUSZ", 0.08
 	music = "M_MAP23"
 	next = "map24"

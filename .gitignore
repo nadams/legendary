@@ -6,3 +6,4 @@ maps/*.bak
 *.bak
 *.dbs
 Thumbs.db
+diff/
