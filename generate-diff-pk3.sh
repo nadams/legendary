@@ -14,4 +14,4 @@ REMOTE_BRANCH=$1
 CURRENT_REVISION=$(git log --pretty=format:'%h' -n 1)
 FILES=$(git diff --name-only $SOURCE_BRANCH..$REMOTE_BRANCH)
 
-zip -9r legendary-diff-$CURRENT_REVISION.pk3 $FILES -x *.backup* *.dbs *.bak *.db
+zip -9r legendary-diff-$CURRENT_REVISION.pk3 $FILES -x *.backup* *.dbs *.bak *.db *.sh *.pk3 .gitignore

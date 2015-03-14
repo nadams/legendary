@@ -1,27 +1,12 @@
-#!/bin/sh
+#!/bin/bash
 
-cd maps
-
-MAPS=$(ls *.wad)
-ZDBSP="/c/bin/zdbsp.exe"
-OUTDIR="compressed"
-
-if [ -d $OUTDIR ];
-then
-	rm -rf $OUTDIR
-fi
-
-mkdir $OUTDIR
-
-for MAP in $MAPS
+for map in $(ls maps/*.wad)
 do
-	$ZDBSP \
+	zdbsp \
 		--empty-blockmap \
 		--zero-reject \
 		--extended \
 		--compress \
-		--output=$OUTDIR/$MAP \
-	$MAP
+		--output=$map \
+	$map
 done
-
-echo "Don't forget to move the compressed maps from the compressed directory into the maps directory."
