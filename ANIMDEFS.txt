@@ -31,3 +31,5 @@ warp flat qwater
 warp flat slimenuk
 
 warp2 texture sbuba0
+
+switch doom 2 Q2SWT001 on pic Q2SWT003 tics 0
