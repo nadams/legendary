@@ -8,6 +8,7 @@ POWER					POWER
 Steam/Loop				STEMLOOP
 Steam/Fire				STEMFIRE
 WTRRUSH 				WTRRUSH
+wind					wind
 
 
 
@@ -79,3 +80,4 @@ $ambient 	6	 	FAN POINT 1.0 CONTINUOUS 0.8
 $ambient 	7 		POWER POINT 2.3 CONTINUOUS 0.8
 $ambient 	8		AMB4 POINT 1.75 CONTINUOUS 1.00
 $ambient	9		WTRRUSH POINT 0.50 CONTINUOUS 1.0
+$ambient	10		WIND POINT 1.75 CONTINUOUS 0.5
