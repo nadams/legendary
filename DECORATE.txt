@@ -6,3 +6,5 @@
 #include effects/bubbles.decorate
 #include effects/padjets.decorate
 #include effects/steam.decorate
+
+#include weapons/railgun.decorate
