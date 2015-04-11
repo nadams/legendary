@@ -1102,3 +1102,25 @@ texture BRNPOIS2, 64, 128
 	Patch WALL62_1, 0, 0
 	Patch PS20A0, 0, 57
 }
+
+texture N_SVLR05, 16, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_LTRD3A, 0, 0
+	Patch N_LTRD3C, 8, 0
+	Patch N_LTRD3A, 0, 8
+	Patch N_LTRD3C, 8, 8
+	Patch N_LTRD3A, 0, 16
+	Patch N_LTRD3C, 8, 16
+	Patch N_LTRD3A, 0, 24
+	Patch N_LTRD3C, 8, 24
+	Patch N_LTRD3A, 0, 32
+	Patch N_LTRD3C, 8, 32
+	Patch N_LTRD3A, 0, 40
+	Patch N_LTRD3C, 8, 40
+	Patch N_LTRD3A, 0, 48
+	Patch N_LTRD3C, 8, 48
+	Patch N_SVLR05, 0, 56
+}
