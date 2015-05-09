@@ -1124,3 +1124,25 @@ texture N_SVLR05, 16, 128
 	Patch N_LTRD3C, 8, 48
 	Patch N_SVLR05, 0, 56
 }
+
+texture N_BRGR19, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_BRGR14, 0, 0
+	Patch N_BRLTWT, 3, 2
+	Patch N_BRLTWT, 35, 2
+	Patch N_BRLTWT, 3, 120
+	Patch N_BRLTWT, 35, 120
+}
+
+texture N_BRGR20, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_BRGR12, 0, 0
+	Patch N_WARN13, 0, 0
+	Patch N_WARN13, -64, 16
+}
