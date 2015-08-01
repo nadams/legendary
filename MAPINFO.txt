@@ -152,6 +152,6 @@ map map24 "Power Mountain" {
 	next = "map26"
 }
 
-map map26 "Brown Stuff" {
+map map26 "Too Simple" {
 	next = "map01"
 }
