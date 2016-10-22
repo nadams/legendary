@@ -5,7 +5,7 @@ Primary purpose         : Capture the Flag/One Flag CTF
 Title                   : Legendary CTF
 Filename                : legendary-43a.pk3
 Release date            : 23/03/2015
-Author                  : silvertear
+Author                  : silvertear, Alfred, p0x
 Email Address           : silvertear@node-3.net
 
 Description             : A set of levels designed for Capture the Flag/One Flag CTF.
