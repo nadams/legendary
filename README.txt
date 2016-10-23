@@ -11,7 +11,7 @@ Email Address           : silvertear@node-3.net
 Description             : A set of levels designed for Capture the Flag/One Flag CTF.
 
 Additional Credits to   : The Afterglow Team, KDiZD Team, 
-						  The Mod Archivem, Various others.
+                          The Mod Archive, evolu, Various others.
 ===========================================================================
 * What is included *
 
