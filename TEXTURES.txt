@@ -1147,6 +1147,42 @@ texture N_BRGR20, 64, 128
 	Patch N_WARN13, -64, 16
 }
 
+texture N_BGBK16, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch N_BGB01C, 0, 0
+	Patch N_BGB01C, 64, 0
+	Patch N_BGB01D, 0, 56
+}
+
+texture NMTTLE4, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch METTILE4, 0, 0
+	Patch METTILE4, 0, 64
+}
+
+texture NOTECH2, 64, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch NWALL058, 0, 0
+	Patch NWALL058, 0, 64
+}
+
+texture NOWALL07, 128, 128
+{
+	XScale 1.0
+	YScale 1.0
+
+	Patch NWALL013, 0, 0
+}
+
 Texture SUPPORT2, 24, 128
 {
 	XScale 1.0
