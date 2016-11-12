@@ -1182,3 +1182,11 @@ texture NOWALL07, 128, 128
 
 	Patch NWALL013, 0, 0
 }
+
+Texture SUPPORT2, 24, 128
+{
+	XScale 1.0
+	YScale 1.0
+	
+	Patch SUPPORT2, 0, 0
+}
