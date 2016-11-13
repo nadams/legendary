@@ -7,4 +7,4 @@ build:
     - sh generate-pk3.sh
   artifacts:
     paths:
-      - coop3.pk3
+      - legendary.pk3
