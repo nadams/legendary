@@ -3,10 +3,10 @@ Advanced engine needed  : Zandronum 1.0+
 Primary purpose         : Capture the Flag/One Flag CTF
 ===========================================================================
 Title                   : Legendary CTF
-Filename                : legendary-43a.pk3
-Release date            : 23/03/2015
+Filename                : legendary-43b.pk3
+Release date            : 06/10/2019
 Author                  : silvertear, Alfred, p0x
-Email Address           : silvertear@node-3.net
+Email Address           : nadams@node-3.net
 
 Description             : A set of levels designed for Capture the Flag/One Flag CTF.
 
