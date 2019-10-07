@@ -149,5 +149,15 @@ map map23 "The Fallen City" {
 map map24 "Power Mountain" {
 	sky1 = "QSKY2"
 	music = "M_MAP24"
+	next = "map25"
+}
+
+map map25 "Base Haste by Alfred" {
+    sky1 = "QSKY2"
+    music = "M_MAP25"
+    next = "map26"
+}
+
+map map26 "Too Simple" {
 	next = "map01"
 }

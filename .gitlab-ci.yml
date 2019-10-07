@@ -1,0 +1,10 @@
+image: alpine:latest
+before_script:
+  - apk update
+  - apk add zip
+build:
+  script:
+    - sh generate-pk3.sh
+  artifacts:
+    paths:
+      - legendary.pk3
