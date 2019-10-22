@@ -161,3 +161,9 @@ map map25 "Base Haste by Alfred" {
 map map26 "Too Simple" {
 	next = "map01"
 }
+
+map map27 "Butter Boots" {
+	sky1 = "QSKY2"
+	music = "M_MAP27"
+	next = "map01"
+}
