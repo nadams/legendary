@@ -159,7 +159,7 @@ map map25 "Base Haste by Alfred" {
 }
 
 map map26 "Too Simple" {
-	next = "map01"
+	next = "map27"
 }
 
 map map27 "Butter Boots" {
