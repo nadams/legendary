@@ -165,5 +165,11 @@ map map26 "Too Simple" {
 map map27 "Butter Boots" {
 	sky1 = "QSKY2"
 	music = "M_MAP27"
+	next = "map28"
+}
+
+map map28 "Gun Cave" {
+	sky1 = "H2S1VAR4"
+	music = "M_MAP28"
 	next = "map01"
 }
